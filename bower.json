@@ -1,6 +1,6 @@
 {
-  "name": "andiamo",
-  "description": "Fomantic-Ui Based Admin Template",
+  "name": "newsletter",
+  "description": "Karatekin University Email Newsletter",
   "main": "gulpfile.js",
   "authors": [
     "partitect"
@@ -27,7 +27,7 @@
     "theme",
     "templatemonster"
   ],
-  "homepage": "https://github.com/partitect/andiamo",
+  "homepage": "https://github.com/partitect/newsletter",
   "private": true,
   "ignore": [
     "**/.*",

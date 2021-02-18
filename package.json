@@ -1,16 +1,16 @@
 {
-	"name": "andiamo",
+	"name": "karatekinnewsletter",
 	"version": "1.0.0",
-	"description": "Fomantic-Ui Based Admin Template",
-	"homepage": "https://andiamo.netlify.app/",
+	"description": "Karatekin University Email Newsletter",
+	"homepage": "https://newsletter.netlify.app/",
 	"main": "gulpfile.js",
 	"scripts": {
 		"start": "gulp",
 		"postinstall": "bower install"
 	},
 	"bugs": {
-		"email": "partitect@yandex.com",
-		"url": "https://github.com/partitect/andiamo/issues"
+		"email": "telat@karatekin.edu.tr",
+		"url": "https://github.com/partitect/newsletter/issues"
 	},
 	"keywords": [
 		"gulp",
@@ -35,18 +35,18 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/partitect/andiamo/"
+		"url": "https://github.com/partitect/newsletter/"
 	},
 	"author": {
-		"name": "partitect",
-		"email": "partitect@yandex.com",
-		"url": "https://andiamo.netlify.app/"
+		"name": "telatkaya",
+		"email": "telat@karatekin.edu.tr",
+		"url": "https://newsletter.netlify.app/"
 	},
 	"license": "ISC",
 	"browserslist": [
 		"last 2 version"
 	],
-	"documentation": "https://andiamo.netlify.app/docs/#/",
+	"documentation": "https://newsletter.netlify.app/docs/#/",
 	"purchase": "",
 	"devDependencies": {
 		"babel-core": "^6.26.3",
